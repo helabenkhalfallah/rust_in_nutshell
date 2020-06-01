@@ -29,5 +29,5 @@
 ## Cargo & Foundation
 https://medium.com/@helabenkhalfallah/rust-in-a-nutshell-cargo-foundation-7e4db388fa82?postPublishedType=repub
 
-# Ownership 
+## Ownership 
 https://medium.com/@helabenkhalfallah/rust-in-a-nutshell-ownership-a9cd6afeb280
